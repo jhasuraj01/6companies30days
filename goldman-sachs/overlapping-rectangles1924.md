@@ -18,8 +18,25 @@ Given two rectangles, find if the given two rectangles overlap or not. A rectang
 
 ### Solution
 ```cpp
-// solution
+class Solution {
+  public:
+    int doOverlap(int L1[], int R1[], int L2[], int R2[]) {
+        
+        if(
+            L2[0] - R1[0] > 0 ||
+            R1[1] - L2[1] > 0 ||
+            L1[0] - R2[0] > 0 ||
+            R2[1] - L1[1] > 0
+        ) {
+            return 0;
+        }
+        else {
+            return 1;
+        }
+    }
+};
 ```
 
 ### Accepted
+[![image](https://user-images.githubusercontent.com/44930179/147874937-e1581315-4bbf-43c6-b9f9-32819b9ac118.png)](https://practice.geeksforgeeks.org/viewSol.php?subId=86b4ef19ca53a2d09b332f260a8acc8c&pid=705474&user=jhasuraj)
 
