@@ -41,4 +41,4 @@ class Solution{
 ```
 
 ### Accepted
-![image](https://user-images.githubusercontent.com/44930179/147873107-6516b2e3-9430-4e8d-af6c-a95529eef3b2.png)
+[![image](https://user-images.githubusercontent.com/44930179/147873107-6516b2e3-9430-4e8d-af6c-a95529eef3b2.png)](https://practice.geeksforgeeks.org/viewSol.php?subId=6f74ea054ab4a7ac183196a83fd4b454&pid=701966&user=jhasuraj)
