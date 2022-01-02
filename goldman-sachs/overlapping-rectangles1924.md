@@ -5,6 +5,7 @@
 Given two rectangles, find if the given two rectangles overlap or not. A rectangle is denoted by providing the x and y coordinates of two points: the left top corner and the right bottom corner of the rectangle. Two rectangles sharing a side are considered overlapping. (L1 and R1 are the extreme points of the first rectangle and L2 and R2 are the extreme points of the second rectangle).
 
 **Note:** It may be assumed that the rectangles are parallel to the coordinate axis.
+![image](https://user-images.githubusercontent.com/44930179/147873497-c32af86c-7ec6-414a-9b17-96cd24f0485d.png)
 
 ### Sample Input
 ```
