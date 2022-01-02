@@ -6,3 +6,4 @@
 - [Overlapping Rectangles](./overlapping-rectangles1924.md)
 - [Count the subarrays having product less than k](./count-the-subarrays-having-product-less-than-k1708.md)
 - [Run Length Encoding](./run-length-encoding.md)
+- [Ugly Number](./ugly-numbers2254.md)
