@@ -8,4 +8,5 @@
 - [Run Length Encoding](./run-length-encoding.md)
 - [Ugly Number](./ugly-numbers2254.md)
 - [Greatest Common Divisor of Strings](./greatest-common-divisor-of-strings.md)
+- [Minimum Size Subarray Sum](./minimum-size-subarray-sum.md)
 - [Array Pair Sum Divisibility Problem](./array-pair-sum-divisibility-problem3257.md)
