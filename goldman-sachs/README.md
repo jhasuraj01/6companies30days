@@ -9,5 +9,6 @@
 - [Ugly Number](./ugly-numbers2254.md)
 - [Greatest Common Divisor of Strings](./greatest-common-divisor-of-strings.md)
 - [Find the position of M-th item](./find-the-position-of-m-th-item1723.md)
+- [Number following a pattern](./number-following-a-pattern3126.md)
 - [Minimum Size Subarray Sum](./minimum-size-subarray-sum.md)
 - [Array Pair Sum Divisibility Problem](./array-pair-sum-divisibility-problem3257.md)
