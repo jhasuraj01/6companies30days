@@ -11,5 +11,6 @@
 - [Find the position of M-th item](./find-the-position-of-m-th-item1723.md)
 - [Number following a pattern](./number-following-a-pattern3126.md)
 - [Max 10 numbers in a list having 10M entries](./k-largest-elements3736.md)
+- [Find Missing And Repeating](./find-missing-and-repeating2512.md)
 - [Minimum Size Subarray Sum](./minimum-size-subarray-sum.md)
 - [Array Pair Sum Divisibility Problem](./array-pair-sum-divisibility-problem3257.md)
