@@ -7,7 +7,7 @@ In this repo I am uploading my solutions for [6Companies30Days Challenge](https:
 <details open>
 <summary style="font-size: 1.2em">Goldman Sachs (13/15)</summary>
 
-Sr  | [Problems](./goldman-sachs/README.md)                                                                                     | Tryit                                                                                                                                     | Status
+Sr  | [Problems](./goldman-sachs/README.md)                                                                                     | TryIt                                                                                                                                     | Status
 ----|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
 1   | [Print Anagrams Together](./goldman-sachs/print-anagrams-together.md)                                                     | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/#)                              | ✅
 2   | [Overlapping Rectangles](./goldman-sachs/overlapping-rectangles1924.md)                                                   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/)                            | ✅
