@@ -5,7 +5,7 @@ In this repo I am uploading my solutions for [6Companies30Days Challenge](https:
 ## Problem Sets
 
 <details open>
-<summary style="font-size: 1.2em">Goldman Sachs (13/15)</summary>
+<summary style="font-size: 1.2em">Goldman Sachs (14/15)</summary>
 
 Sr  | [Problems](./goldman-sachs/README.md)                                                                                     | TryIt                                                                                                                                     | Status
 ----|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
