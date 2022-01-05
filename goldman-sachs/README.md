@@ -9,6 +9,7 @@
 - [Ugly Number](./ugly-numbers2254.md)
 - [Greatest Common Divisor of Strings](./greatest-common-divisor-of-strings.md)
 - [Find the position of M-th item](./find-the-position-of-m-th-item1723.md)
+- [Total Decoding Messages](./total-decoding-messages1235.md)
 - [Number following a pattern](./number-following-a-pattern3126.md)
 - [Max 10 numbers in a list having 10M entries](./k-largest-elements3736.md)
 - [Find Missing And Repeating](./find-missing-and-repeating2512.md)
