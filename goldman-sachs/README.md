@@ -14,5 +14,6 @@
 - [Max 10 numbers in a list having 10M entries](./k-largest-elements3736.md)
 - [Find Missing And Repeating](./find-missing-and-repeating2512.md)
 - [Squares in N*N Chessboard](./squares-in-nn-chessboard1801.md)
+- [Decode the string](./goldman-sachs/decode-the-string2444.md)
 - [Minimum Size Subarray Sum](./minimum-size-subarray-sum.md)
 - [Array Pair Sum Divisibility Problem](./array-pair-sum-divisibility-problem3257.md)
