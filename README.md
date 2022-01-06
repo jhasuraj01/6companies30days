@@ -45,7 +45,7 @@ Sr  | [Problems](./amazon/README.md)                                            
 11  | Serialize and Deserialize a Binary Tree                                                       | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1)                | 
 12  | Column name from a given column number                                                        | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/column-name-from-a-given-column-number4244/1/)            | 
 13  | Rotting Oranges                                                                               | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/rotting-oranges/)                                                        | 
-14  | Burning Tree                                                                                  | [![Problem Link](./assets/lc.svg)](https://practice.geeksforgeeks.org/problems/burning-tree/1/)                                           | 
+14  | Burning Tree                                                                                  | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/burning-tree/1/)                                           | 
 15  | Delete N nodes after M nodes of a linked list                                                 | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1/)         | 
 
 </details>
