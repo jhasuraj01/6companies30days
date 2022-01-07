@@ -1,6 +1,7 @@
 # Title
 
-[![Problem Link](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](...problem...)
+[![Problem Link](../assets/gfg.svg)](...problem...)
+[![Problem Link](../assets/lc.svg)](...problem...)
 
 
 ### Sample Input
