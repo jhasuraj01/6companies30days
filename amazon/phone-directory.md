@@ -133,4 +133,4 @@ public:
 ```
 
 ### Accepted
-[![image](https://user-images.githubusercontent.com/44930179/148439620-cfd6d275-3746-4b1d-90b7-63e49c3e7115.png)](#)
+[![image](https://user-images.githubusercontent.com/44930179/148439620-cfd6d275-3746-4b1d-90b7-63e49c3e7115.png)](https://practice.geeksforgeeks.org/viewSol.php?subId=2713a1cc4a767ddebf46383218bc9689&pid=705602&user=jhasuraj)

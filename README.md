@@ -28,7 +28,7 @@ Sr  | [Problems](./goldman-sachs/README.md)                                     
 </details>
 
 <details open>
-<summary style="font-size: 1.2em">Amazon (3/15)</summary>
+<summary style="font-size: 1.2em">Amazon (4/15)</summary>
 
 Sr  | [Problems](./amazon/README.md)                                                                | TryIt                                                                                                                                     | Status
 ----|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
@@ -37,7 +37,7 @@ Sr  | [Problems](./amazon/README.md)                                            
 3   | [IPL 2021 - Match Day 2](./amazon/ipl-2021-match-day-2.md)                                    | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/deee0e8cf9910e7219f663c18d6d640ea0b87f87/1/)              | ✅
 4   | Brackets in Matrix Chain Multiplication                                                       | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/brackets-in-matrix-chain-multiplication1024/1/)           | 
 5   | [Phone directory](./amazon/phone-directory.md)                                                | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/phone-directory4628/1/)                                   | ✅
-6   | Maximum of all subarrays of size k                                                            | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)                  | 
+6   | [Maximum of all subarrays of size k](./amazon/maximum-of-all-subarrays-of-size.md)            | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)                 | ✅
 7   | First non-repeating character in a stream                                                     | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1)          | 
 8   | Count ways to N'th Stair(Order does not matter)                                               | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/count-ways-to-nth-stairorder-does-not-matter1322/1/)      | 
 9   | Is Sudoku Valid                                                                               | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/is-sudoku-valid4820/1/)                                   | 
@@ -45,7 +45,7 @@ Sr  | [Problems](./amazon/README.md)                                            
 11  | Serialize and Deserialize a Binary Tree                                                       | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1)                | 
 12  | Column name from a given column number                                                        | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/column-name-from-a-given-column-number4244/1/)            | 
 13  | Rotting Oranges                                                                               | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/rotting-oranges/)                                                        | 
-14  | Burning Tree                                                                                  | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/burning-tree/1/)                                           | 
+14  | Burning Tree                                                                                  | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/burning-tree/1/)                                          | 
 15  | Delete N nodes after M nodes of a linked list                                                 | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1/)         | 
 
 </details>
