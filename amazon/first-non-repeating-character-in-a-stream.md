@@ -23,7 +23,7 @@ class Solution {
 		    queue<char> nrcq;
 		    vector<int> used(26, false);
 
-            string ans = "";
+                    string ans = "";
 
 		    for(int i = 0; i < A.size(); ++i) {
 		        char c = A[i];
