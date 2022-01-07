@@ -28,7 +28,7 @@ Sr  | [Problems](./goldman-sachs/README.md)                                     
 </details>
 
 <details open>
-<summary style="font-size: 1.2em">Amazon (4/15)</summary>
+<summary style="font-size: 1.2em">Amazon (6/15)</summary>
 
 Sr  | [Problems](./amazon/README.md)                                                                                | TryIt                                                                                                                                     | Status
 ----|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
