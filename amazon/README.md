@@ -10,3 +10,4 @@
 - [First non-repeating character in a stream](./first-non-repeating-character-in-a-stream.md)
 - [Count ways to N'th Stair(Order does not matter)](./count-ways-to-nth-stairorder-does-not-matter.md)
 - [Is Sudoku Valid ](./is-sudoku-valid.md)
+- [Column name from a given column number](./column-name-from-a-given-column-number.md)
