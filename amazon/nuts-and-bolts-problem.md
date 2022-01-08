@@ -22,25 +22,25 @@ The elements should follow the following order ! # $ % & * @ ^ ~ .
 
 ### Solution
 ```cpp
-class Solution{
-public:	
+class Solution {
+public:    
 
-	void matchPairs(char nuts[], char bolts[], int n) {
+    void matchPairs(char nuts[], char bolts[], int n) {
 
         // align nuts and bolts
-	    for(int i = 0; i < n; ++i) {
-	        for(int j = i; j < n; ++j) {
-	            if(bolts[j] == nuts[i]) {
-	                char temp = bolts[i];
-	                bolts[i] = bolts[j];
-	                bolts[j] = temp;
-	                continue;
-	            }
-	        }
-	    }
-	    
+        for(int i = 0; i < n; ++i) {
+            for(int j = i; j < n; ++j) {
+                if(bolts[j] == nuts[i]) {
+                    char temp = bolts[i];
+                    bolts[i] = bolts[j];
+                    bolts[j] = temp;
+                    continue;
+                }
+            }
+        }
+        
         // find original position in an array
-	    vector<int> order(n);
+        vector<int> order(n);
         iota(order.begin(), order.end(), 0);
         sort(order.begin(), order.end(), [&](int i, int j) {
             return nuts[i] < bolts[j];
@@ -54,7 +54,7 @@ public:
             bolts[j] = nuts[j];
         }
 
-	}
+    }
 };
 ```
 
