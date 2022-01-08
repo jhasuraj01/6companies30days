@@ -28,7 +28,7 @@ Sr  | [Problems](./goldman-sachs/README.md)                                     
 </details>
 
 <details open>
-<summary style="font-size: 1.2em">Amazon (8/15)</summary>
+<summary style="font-size: 1.2em">Amazon (9/15)</summary>
 
 Sr  | [Problems](./amazon/README.md)                                                                                | TryIt                                                                                                                                     | Status
 ----|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
@@ -46,6 +46,6 @@ Sr  | [Problems](./amazon/README.md)                                            
 12  | [Column name from a given column number](./amazon/column-name-from-a-given-column-number.md)                  | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/column-name-from-a-given-column-number4244/1/)            | ✅
 13  | Rotting Oranges                                                                                               | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/rotting-oranges/)                                                        | 
 14  | Burning Tree                                                                                                  | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/burning-tree/1/)                                          | 
-15  | Delete N nodes after M nodes of a linked list                                                                 | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1/)         | 
+15  | [Delete N nodes after M nodes of a linked list](./amazon/delete-n-nodes-after-m-nodes-of-a-linked-list.md)    | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1/)         | ✅
 
 </details>

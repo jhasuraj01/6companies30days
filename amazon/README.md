@@ -11,3 +11,4 @@
 - [Count ways to N'th Stair(Order does not matter)](./count-ways-to-nth-stairorder-does-not-matter.md)
 - [Is Sudoku Valid ](./is-sudoku-valid.md)
 - [Column name from a given column number](./column-name-from-a-given-column-number.md)
+- [Delete N nodes after M nodes of a linked list](./delete-n-nodes-after-m-nodes-of-a-linked-list.md)
