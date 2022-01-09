@@ -28,7 +28,7 @@ Sr  | [Problems](./goldman-sachs/README.md)                                     
 </details>
 
 <details open>
-<summary style="font-size: 1.2em">Amazon (13/15)</summary>
+<summary style="font-size: 1.2em">Amazon (14/15)</summary>
 
 Sr  | [Problems](./amazon/README.md)                                                                                | TryIt                                                                                                                                     | Status
 ----|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
@@ -44,7 +44,7 @@ Sr  | [Problems](./amazon/README.md)                                            
 10  | [Nuts and Bolts Problem](./amazon/nuts-and-bolts-problem.md)                                                  | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/nuts-and-bolts-problem0431/1)                             | ✅
 11  | [Serialize and Deserialize a Binary Tree](./amazon/serialize-and-deserialize-a-binary-tree.md)                | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1)                | ✅
 12  | [Column name from a given column number](./amazon/column-name-from-a-given-column-number.md)                  | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/column-name-from-a-given-column-number4244/1/)            | ✅
-13  | Rotting Oranges                                                                                               | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/rotting-oranges/)                                                        | 
+13  | [Rotting Oranges](./amazon/rotting-oranges.md)                                                                | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/rotting-oranges/)                                                        | ✅
 14  | Burning Tree                                                                                                  | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/burning-tree/1/)                                          | 
 15  | [Delete N nodes after M nodes of a linked list](./amazon/delete-n-nodes-after-m-nodes-of-a-linked-list.md)    | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1/)         | ✅
 
