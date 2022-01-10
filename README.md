@@ -53,7 +53,7 @@ Sr  | [Problems](./amazon/README.md)                                            
 <details open>
 <summary style="font-size: 1.2em">Microsoft (0/15)</summary>
 
-Sr  | [Problems](./amazon/README.md)            | TryIt                                                                                                                                     | Status
+Sr  | [Problems](./microsoft/README.md)            | TryIt                                                                                                                                     | Status
 ----|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
 1   | Minimum sum partition                     | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/)                             | 
 2   | Prerequisite Tasks                        | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/prerequisite-tasks/1/)                                    | 
