@@ -27,7 +27,7 @@ Sr  | [Problems](./goldman-sachs/README.md)                                     
 
 </details>
 
-<details open>
+<details>
 <summary style="font-size: 1.2em">Amazon (15/15)</summary>
 
 Sr  | [Problems](./amazon/README.md)                                                                                | TryIt                                                                                                                                     | Status
@@ -47,5 +47,28 @@ Sr  | [Problems](./amazon/README.md)                                            
 13  | [Rotting Oranges](./amazon/rotting-oranges.md)                                                                | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/rotting-oranges/)                                                        | ✅
 14  | [Burning Tree](./amazon/burning-tree.md)                                                                      | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/burning-tree/1/)                                          | ✅
 15  | [Delete N nodes after M nodes of a linked list](./amazon/delete-n-nodes-after-m-nodes-of-a-linked-list.md)    | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1/)         | ✅
+
+</details>
+
+<details open>
+<summary style="font-size: 1.2em">Microsoft (0/15)</summary>
+
+Sr  | [Problems](./amazon/README.md)            | TryIt                                                                                                                                     | Status
+----|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
+1   | Minimum sum partition                     | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/)                             | 
+2   | Prerequisite Tasks                        | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/prerequisite-tasks/1/)                                    | 
+3   | Rotate by 90 degree                       | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1/)                               | 
+4   | Spirally traversing a matrix              | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1/)               | 
+5   | Stock span problem                        | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)                          | 
+6   | Possible Words From Phone Digits          | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1/)           | 
+7   | Unit Area of largest region of 1's        | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1/)             | 
+8   | Connect Nodes at Same Level               | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1/)                           | 
+9   | Count Number of SubTrees having given Sum | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1/)             | 
+10  | Stickler Thief                            | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1/)                             | 
+11  | Generate Binary Numbers                   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/generate-binary-numbers-1587115620/1/)                    | 
+12  | Find All Four Sum Numbers                 | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1)                          | 
+13  | Bridge edge in a graph                    | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1)                                   | 
+14  | Minimum steps to destination              | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/)   | 
+15  | Alien Dictionary                          | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/alien-dictionary/1/)                                      | 
 
 </details>
