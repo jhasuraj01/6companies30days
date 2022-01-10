@@ -8,7 +8,7 @@ There are N stairs, and a person standing at the bottom wants to reach the top. 
 
 ### Hint
 ```
-n = 2m + n;
+n = 2i + j;
 
 4 = 2(0) + 4
 4 = 2(1) + 2
