@@ -51,7 +51,7 @@ Sr  | [Problems](./amazon/README.md)                                            
 </details>
 
 <details open>
-<summary style="font-size: 1.2em">Microsoft (12/15)</summary>
+<summary style="font-size: 1.2em">Microsoft (13/15)</summary>
 
 Sr  | [Problems](./microsoft/README.md)                                                                     | TryIt                                                                                                                                     | Status
 ----|---------------------------------------------------------------------------------------                |-------------------------------------------------------------------------------------------------------------------------------------------|---------
@@ -59,7 +59,7 @@ Sr  | [Problems](./microsoft/README.md)                                         
 2   | [Prerequisite Tasks](./microsoft/prerequisite-tasks.md)                                               | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/prerequisite-tasks/1/)                                    | ✅
 3   | [Rotate by 90 degree](./microsoft/rotate-by-90-degree.md)                                             | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1/)                               | ✅
 4   | [Spirally traversing a matrix](./microsoft/spirally-traversing-a-matrix.md)                           | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1/)               | ✅
-5   | Stock span problem                                                                                    | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)                          | 
+5   | [Stock span problem](./microsoft/stock-span-problem.md)                                               | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)                          | ✅
 6   | [Possible Words From Phone Digits](./microsoft/possible-words-from-phone-digits.md)                   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1/)           | ✅
 7   | [Unit Area of largest region of 1's](./microsoft/length-of-largest-region-of-1s.md)                   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1/)             | ✅
 8   | [Connect Nodes at Same Level](./microsoft/connect-nodes-at-same-level.md)                             | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1/)                           | ✅
