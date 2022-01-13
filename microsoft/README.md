@@ -15,3 +15,4 @@
 - [Generate Binary Numbers](./generate-binary-numbers.md)
 - [Find All Four Sum Numbers](./find-all-four-sum-numbers.md)
 - [Bridge edge in a graph](./bridge-edge-in-graph.md)
+- [Minimum steps to destination](./minimum-steps-to-destination.md)
