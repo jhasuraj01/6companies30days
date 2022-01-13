@@ -51,7 +51,7 @@ Sr  | [Problems](./amazon/README.md)                                            
 </details>
 
 <details open>
-<summary style="font-size: 1.2em">Microsoft (5/15)</summary>
+<summary style="font-size: 1.2em">Microsoft (6/15)</summary>
 
 Sr  | [Problems](./microsoft/README.md)                                                     | TryIt                                                                                                                                     | Status
 ----|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
@@ -61,7 +61,7 @@ Sr  | [Problems](./microsoft/README.md)                                         
 4   | [Spirally traversing a matrix](./microsoft/spirally-traversing-a-matrix.md)           | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1/)               | ✅
 5   | Stock span problem                                                                    | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)                          | 
 6   | [Possible Words From Phone Digits](./microsoft/possible-words-from-phone-digits.md)   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1/)           | ✅
-7   | Unit Area of largest region of 1's                                                    | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1/)             | 
+7   | [Unit Area of largest region of 1's](./microsoft/length-of-largest-region-of-1s.md)   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1/)             | ✅
 8   | Connect Nodes at Same Level                                                           | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1/)                           | 
 9   | Count Number of SubTrees having given Sum                                             | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1/)             | 
 10  | Stickler Thief                                                                        | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1/)                             | 
