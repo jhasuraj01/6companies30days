@@ -12,3 +12,4 @@
 - [Connect Nodes at Same Level](./connect-nodes-at-same-level.md)
 - [Count Number of SubTrees having given Sum](./count-number-of-subtrees-having-given-sum.md)
 - [Stickler Thief](./stickler-theif.md)
+- [Generate Binary Numbers](./generate-binary-numbers.md)
