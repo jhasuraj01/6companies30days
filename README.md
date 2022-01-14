@@ -50,8 +50,8 @@ Sr  | [Problems](./amazon/README.md)                                            
 
 </details>
 
-<details open>
-<summary style="font-size: 1.2em">Microsoft (14/15)</summary>
+<details>
+<summary style="font-size: 1.2em">Microsoft (15/15)</summary>
 
 Sr  | [Problems](./microsoft/README.md)                                                                     | TryIt                                                                                                                                     | Status
 ----|---------------------------------------------------------------------------------------                |-------------------------------------------------------------------------------------------------------------------------------------------|---------
@@ -69,6 +69,6 @@ Sr  | [Problems](./microsoft/README.md)                                         
 12  | [Find All Four Sum Numbers](./microsoft/find-all-four-sum-numbers.md)                                 | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1)                          | ✅
 13  | [Bridge edge in a graph](./microsoft/bridge-edge-in-graph.md)                                         | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1)                                   | ✅
 14  | [Minimum steps to destination](./microsoft/minimum-steps-to-destination.md)                           | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/)   | ✅
-15  | Alien Dictionary                                                                                      | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/alien-dictionary/1/)                                      | 
+15  | [Alien Dictionary](./microsoft/alien-dictionary.md)                                                   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/alien-dictionary/1/)                                      | ✅
 
 </details>
