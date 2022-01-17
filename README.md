@@ -53,22 +53,45 @@ Sr  | [Problems](./amazon/README.md)                                            
 <details>
 <summary style="font-size: 1.2em">Microsoft (15/15)</summary>
 
-Sr  | [Problems](./microsoft/README.md)                                                                     | TryIt                                                                                                                                     | Status
+Sr  | [Problems]                                                                     | TryIt                                                                                                                                     | Status
 ----|---------------------------------------------------------------------------------------                |-------------------------------------------------------------------------------------------------------------------------------------------|---------
-1   | [Minimum sum partition](./microsoft/minimum-sum-partition.md)                                         | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/)                             | ✅
-2   | [Prerequisite Tasks](./microsoft/prerequisite-tasks.md)                                               | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/prerequisite-tasks/1/)                                    | ✅
-3   | [Rotate by 90 degree](./microsoft/rotate-by-90-degree.md)                                             | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1/)                               | ✅
-4   | [Spirally traversing a matrix](./microsoft/spirally-traversing-a-matrix.md)                           | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1/)               | ✅
-5   | [Stock span problem](./microsoft/stock-span-problem.md)                                               | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)                          | ✅
-6   | [Possible Words From Phone Digits](./microsoft/possible-words-from-phone-digits.md)                   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1/)           | ✅
-7   | [Unit Area of largest region of 1's](./microsoft/length-of-largest-region-of-1s.md)                   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1/)             | ✅
-8   | [Connect Nodes at Same Level](./microsoft/connect-nodes-at-same-level.md)                             | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1/)                           | ✅
-9   | [Count Number of SubTrees having given Sum](./microsoft/count-number-of-subtrees-having-given-sum.md) | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1/)             | ✅
-10  | [Stickler Thief](./microsoft/stickler-theif.md)                                                       | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1/)                             | ✅
-11  | [Generate Binary Numbers](./microsoft/generate-binary-numbers.md)                                     | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/generate-binary-numbers-1587115620/1/)                    | ✅
-12  | [Find All Four Sum Numbers](./microsoft/find-all-four-sum-numbers.md)                                 | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1)                          | ✅
-13  | [Bridge edge in a graph](./microsoft/bridge-edge-in-graph.md)                                         | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1)                                   | ✅
-14  | [Minimum steps to destination](./microsoft/minimum-steps-to-destination.md)                           | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/)   | ✅
-15  | [Alien Dictionary](./microsoft/alien-dictionary.md)                                                   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/alien-dictionary/1/)                                      | ✅
+1   | [Minimum sum partition]                                         | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/)                             | ✅
+2   | [Prerequisite Tasks]                                               | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/prerequisite-tasks/1/)                                    | ✅
+3   | [Rotate by 90 degree]                                             | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1/)                               | ✅
+4   | [Spirally traversing a matrix]                           | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1/)               | ✅
+5   | [Stock span problem]                                               | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)                          | ✅
+6   | [Possible Words From Phone Digits]                   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1/)           | ✅
+7   | [Unit Area of largest region of 1's]                   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1/)             | ✅
+8   | [Connect Nodes at Same Level]                             | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1/)                           | ✅
+9   | [Count Number of SubTrees having given Sum] | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1/)             | ✅
+10  | [Stickler Thief]                                                       | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1/)                             | ✅
+11  | [Generate Binary Numbers]                                     | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/generate-binary-numbers-1587115620/1/)                    | ✅
+12  | [Find All Four Sum Numbers]                                 | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1)                          | ✅
+13  | [Bridge edge in a graph]                                         | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1)                                   | ✅
+14  | [Minimum steps to destination]                           | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/)   | ✅
+15  | [Alien Dictionary]                                                   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/alien-dictionary/1/)                                      | ✅
+
+</details>
+
+<details open>
+<summary style="font-size: 1.2em">Adobe (0/15)</summary>
+
+Sr  | [Problems](./adobe/README.md)                                 | TryIt                                                                                                                                                                 | Status
+----|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------
+1   | Subarray with given sum                                       | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1)                                                 | 
+2   | Longest Arithmetic Progression                                | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/longest-arithmetic-progression1019/1/)                                                | 
+3   | Number of distict Words with k maximum contiguous vowels      | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/7b9d245852bd8caf8a27d6d3961429f0a2b245f1/1/)                                          | 
+4   | Partition Equal Subset Sum                                    | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1)                                                             | 
+5   | Express as sum of power of natural numbers                    | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/express-as-sum-of-power-of-natural-numbers5647/1)                                     | 
+6   | Generate Parentheses                                          | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/generate-all-possible-parentheses/1/)                                                 | 
+7   | Pots of Gold Game                                             | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/pots-of-gold-game/1/)                                                                 | 
+8   | Implement Atoi                                                | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/implement-atoi/1/)                                                                    | 
+9   | Next higher palindromic number using the same set of digits   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/next-higher-palindromic-number-using-the-same-set-of-digits5859/1/)                   | 
+10  | Winner of an election                                         | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/winner-of-an-election-where-votes-are-represented-as-candidate-names-1587115621/1/)   | 
+11  | Amend The Sentence                                            | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/amend-the-sentence3235/1)                                                             | 
+12  | Leaders in an array                                           | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1/)                                                    | 
+13  | Minimum operations to convert array A to B                    | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/minimum-insertions-to-make-two-arrays-equal/1/)                                       | 
+14  | Smallest range in K lists                                     | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1/)                              | 
+15  | [Most Recent Library](./adobe/most-recent-library.md)         |                                                                                                                                                                       | 
 
 </details>
