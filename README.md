@@ -74,7 +74,7 @@ Sr  | [Problems](./microsoft/README.md)                                         
 </details>
 
 <details open>
-<summary style="font-size: 1.2em">Adobe (1/15)</summary>
+<summary style="font-size: 1.2em">Adobe (3/15)</summary>
 
 Sr  | [Problems](./adobe/README.md)                                 | TryIt                                                                                                                                                                 | Status
 ----|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------
@@ -92,6 +92,6 @@ Sr  | [Problems](./adobe/README.md)                                 | TryIt     
 12  | Leaders in an array                                           | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1/)                                                    | 
 13  | Minimum operations to convert array A to B                    | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/minimum-insertions-to-make-two-arrays-equal/1/)                                       | 
 14  | Smallest range in K lists                                     | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1/)                              | 
-15  | [Most Recent Library](./adobe/most-recent-library.md)         |                                                                                                                                                                       | 
+15  | [Most Recent Library](./adobe/most-recent-library.md)         |                                                                                                                                                                       | ✅
 
 </details>
