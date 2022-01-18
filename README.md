@@ -74,7 +74,7 @@ Sr  | [Problems](./microsoft/README.md)                                         
 </details>
 
 <details open>
-<summary style="font-size: 1.2em">Adobe (5/15)</summary>
+<summary style="font-size: 1.2em">Adobe (6/15)</summary>
 
 Sr  | [Problems](./adobe/README.md)                                 | TryIt                                                                                                                                                                 | Status
 ----|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------
@@ -87,7 +87,7 @@ Sr  | [Problems](./adobe/README.md)                                 | TryIt     
 7   | Pots of Gold Game                                             | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/pots-of-gold-game/1/)                                                                 | 
 8   | [Implement Atoi](./adobe/implement-atoi.md)                   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/implement-atoi/1/)                                                                    | ✅
 9   | Next higher palindromic number using the same set of digits   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/next-higher-palindromic-number-using-the-same-set-of-digits5859/1/)                   | 
-10  | Winner of an election                                         | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/winner-of-an-election-where-votes-are-represented-as-candidate-names-1587115621/1/)   | 
+10  | [Winner of an election](./adobe/winner-of-an-election.md)     | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/winner-of-an-election-where-votes-are-represented-as-candidate-names-1587115621/1/)   | ✅
 11  | Amend The Sentence                                            | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/amend-the-sentence3235/1)                                                             | 
 12  | Leaders in an array                                           | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1/)                                                    | 
 13  | Minimum operations to convert array A to B                    | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/minimum-insertions-to-make-two-arrays-equal/1/)                                       | 
