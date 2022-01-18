@@ -9,7 +9,7 @@
 - []()
 - [Generate Parentheses](./generate-parentheses.md)
 - []()
-- []()
+- [Implement Atoi](./implement-atoi.md)
 - []()
 - []()
 - []()

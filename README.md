@@ -74,7 +74,7 @@ Sr  | [Problems](./microsoft/README.md)                                         
 </details>
 
 <details open>
-<summary style="font-size: 1.2em">Adobe (4/15)</summary>
+<summary style="font-size: 1.2em">Adobe (5/15)</summary>
 
 Sr  | [Problems](./adobe/README.md)                                 | TryIt                                                                                                                                                                 | Status
 ----|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------
@@ -85,7 +85,7 @@ Sr  | [Problems](./adobe/README.md)                                 | TryIt     
 5   | Express as sum of power of natural numbers                    | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/express-as-sum-of-power-of-natural-numbers5647/1)                                     | 
 6   | [Generate Parentheses](./adobe/generate-parentheses.md)       | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/generate-all-possible-parentheses/1/)                                                 | ✅
 7   | Pots of Gold Game                                             | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/pots-of-gold-game/1/)                                                                 | 
-8   | Implement Atoi                                                | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/implement-atoi/1/)                                                                    | 
+8   | [Implement Atoi](./adobe/implement-atoi.md)                   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/implement-atoi/1/)                                                                    | ✅
 9   | Next higher palindromic number using the same set of digits   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/next-higher-palindromic-number-using-the-same-set-of-digits5859/1/)                   | 
 10  | Winner of an election                                         | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/winner-of-an-election-where-votes-are-represented-as-candidate-names-1587115621/1/)   | 
 11  | Amend The Sentence                                            | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/amend-the-sentence3235/1)                                                             | 
