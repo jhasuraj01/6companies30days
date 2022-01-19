@@ -3,7 +3,7 @@
 
 ### Solved Problems
 - [Subarray with given sum](./subarray-with-given-sum.md)
-- []()
+- [Longest Arithmetic Progression](./longest-arithmetic-progression.md)
 - []()
 - [Partition Equal Subset Sum](./subset-sum-problem.md)
 - []()
