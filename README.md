@@ -97,12 +97,12 @@ Sr  | [Problems](./adobe/README.md)                                             
 </details>
 
 <details open>
-<summary style="font-size: 1.2em">Intuit (4/15)</summary>
+<summary style="font-size: 1.2em">Intuit (5/15)</summary>
 
 Sr  | Problems                                                          | TryIt                                                                                                                     | Status
 ----|-------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|--------
 1   | [Minimum sum partition](./intuit/minimum-sum-partition.md)        | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/)             | ✅
-2   | Word Search                                                       | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/word-search/1/)                           | 
+2   | [Word Search](./intuit/word-search.md)                            | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/word-search/1/)                           | ✅
 3   | [Find the missing no in string](./intuit/missing-no-in-string.md) | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/find-the-missing-no-in-string/1/)         | ✅
 4   | [Largest number in K swaps](./intuit/largest-number-in-k-swaps.md)| [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1)   | ✅
 5   | [Split Array Largest Sum](./intuit/split-array-largest-sum.md)    | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/split-array-largest-sum/)                                | ✅
