@@ -6,7 +6,7 @@
 - [Longest Arithmetic Progression](./longest-arithmetic-progression.md)
 - [Number of distict Words with k maximum contiguous vowels](kmax-cont-vowels.md)
 - [Partition Equal Subset Sum](./subset-sum-problem.md)
-- []()
+- [Express as sum of power of natural numbers](./sum-of-power-of-natural-numbers.md)
 - [Generate Parentheses](./generate-parentheses.md)
 - []()
 - [Implement Atoi](./implement-atoi.md)
