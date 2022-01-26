@@ -97,7 +97,7 @@ Sr  | [Problems](./adobe/README.md)                                             
 </details>
 
 <details open>
-<summary style="font-size: 1.2em">Intuit (11/15)</summary>
+<summary style="font-size: 1.2em">Intuit (12/15)</summary>
 
 Sr  | Problems                                                                                          | TryIt                                                                                                                     | Status
 ----|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|--------
@@ -112,7 +112,7 @@ Sr  | Problems                                                                  
 9   | [Pacific Atlantic Water Flow](./intuit/pacific-atlantic-water-flow.md)                            | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/pacific-atlantic-water-flow/)                            | ✅
 10  | [Number of Provinces](./intuit/number-of-provinces.md)                                            | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/number-of-provinces/)                                    | ✅
 11  | [Construct Quad Tree](./intuit/construct-quad-tree.md)                                            | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/construct-quad-tree/)                                    | ✅
-12  | Course Schedule II                                                                                | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/course-schedule-ii/)                                     | 
+12  | [Course Schedule II](./intuit/course-schedule-ii.md)                                              | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/course-schedule-ii/)                                     | ✅
 13  | Minimum Swaps to Arrange a Binary Grid                                                            | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/)                 | 
 14  | As Far from Land as Possible                                                                      | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/as-far-from-land-as-possible/)                           | 
 15  | Koko Eating Bananas                                                                               | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/koko-eating-bananas/)                                    | 
