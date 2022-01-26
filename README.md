@@ -97,7 +97,7 @@ Sr  | [Problems](./adobe/README.md)                                             
 </details>
 
 <details open>
-<summary style="font-size: 1.2em">Intuit (8/15)</summary>
+<summary style="font-size: 1.2em">Intuit (9/15)</summary>
 
 Sr  | Problems                                                                                          | TryIt                                                                                                                     | Status
 ----|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|--------
@@ -109,7 +109,7 @@ Sr  | Problems                                                                  
 6   | [Find in Mountain Array](./intuit/find-in-mountain-array.md)                                      | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/find-in-mountain-array/)                                 | ✅
 7   | [Capacity To Ship Packages Within D Days](./intuit/capacity-to-ship-packages-within-d-days.md)    | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)                | ✅
 8   | [Number of Boomerangs](./intuit/number-of-boomerangs.md)                                          | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/number-of-boomerangs/)                                   | ✅
-9   | Pacific Atlantic Water Flow                                                                       | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/pacific-atlantic-water-flow/)                            | 
+9   | [Pacific Atlantic Water Flow](./intuit/pacific-atlantic-water-flow.md)                            | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/pacific-atlantic-water-flow/)                            | ✅
 10  | Number of Provinces                                                                               | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/number-of-provinces/)                                    | 
 11  | Construct Quad Tree                                                                               | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/construct-quad-tree/)                                    | 
 12  | Course Schedule II                                                                                | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/course-schedule-ii/)                                     | 
