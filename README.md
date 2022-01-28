@@ -96,8 +96,8 @@ Sr  | [Problems](./adobe/README.md)                                             
 
 </details>
 
-<details open>
-<summary style="font-size: 1.2em">Intuit (14/15)</summary>
+<details>
+<summary style="font-size: 1.2em">Intuit (15/15)</summary>
 
 Sr  | Problems                                                                                          | TryIt                                                                                                                     | Status
 ----|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|--------
@@ -115,6 +115,6 @@ Sr  | Problems                                                                  
 12  | [Course Schedule II](./intuit/course-schedule-ii.md)                                              | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/course-schedule-ii/)                                     | ✅
 13  | [Minimum Swaps to Arrange a Binary Grid](./intuit/min-swaps-to-arrange-binary-grid.md)            | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/)                 | ✅
 14  | [As Far from Land as Possible](./intuit/as-far-from-land-as-possible.md)                          | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/as-far-from-land-as-possible/)                           | ✅
-15  | Koko Eating Bananas                                                                               | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/koko-eating-bananas/)                                    | 
+15  | [Koko Eating Bananas](./intuit/koko-eating-bananas.md)                                            | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/koko-eating-bananas/)                                    | ✅
 
 </details>
