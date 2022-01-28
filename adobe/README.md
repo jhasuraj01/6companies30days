@@ -8,7 +8,7 @@
 - [Partition Equal Subset Sum](./subset-sum-problem.md)
 - [Express as sum of power of natural numbers](./sum-of-power-of-natural-numbers.md)
 - [Generate Parentheses](./generate-parentheses.md)
-- []()
+- [Pots of Gold Game](./pots-of-gold-game.md)
 - [Implement Atoi](./implement-atoi.md)
 - [Next higher palindromic number using the same set of digits](./next-higher-palindromic-number-same-digit.md)
 - [Winner of an election](./winner-of-an-election.md)
