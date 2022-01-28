@@ -74,7 +74,7 @@ Sr  | [Problems](./microsoft/README.md)                                         
 </details>
 
 <details open>
-<summary style="font-size: 1.2em">Adobe (13/15)</summary>
+<summary style="font-size: 1.2em">Adobe (14/15)</summary>
 
 Sr  | [Problems](./adobe/README.md)                                                                             | TryIt                                                                                                                                                                 | Status
 ----|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------
@@ -91,7 +91,7 @@ Sr  | [Problems](./adobe/README.md)                                             
 11  | [Amend The Sentence](./adobe/amend-the-sentence.md)                                                       | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/amend-the-sentence3235/1)                                                             | ✅
 12  | [Leaders in an array](./adobe/leaders-in-an-array.md)                                                     | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1/)                                                    | ✅
 13  | [Minimum operations to convert array A to B](./adobe/minimum-insertions-to-make-two-arrays-equal.md)      | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/minimum-insertions-to-make-two-arrays-equal/1/)                                       | 
-14  | Smallest range in K lists                                                                                 | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1/)                              | 
+14  | [Smallest range in K lists](./adobe/smallest-range-covering-elements-from-k-lists.md)                     | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1/)                              | ✅
 15  | [Most Recent Library](./adobe/most-recent-library.md)                                                     |                                                                                                                                                                       | ✅
 
 </details>

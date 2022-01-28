@@ -15,5 +15,5 @@
 - [Amend The Sentence](./amend-the-sentence.md)
 - [Leaders in an array](./leaders-in-an-array.md)
 - [Minimum operations to convert array A to B](./minimum-insertions-to-make-two-arrays-equal.md)
-- []()
+- [Smallest range in K lists](./smallest-range-covering-elements-from-k-lists.md)
 - [Most Recent Library](./most-recent-library.md)
