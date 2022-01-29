@@ -121,7 +121,7 @@ Sr  | Problems                                                                  
 
 
 <details open>
-<summary style="font-size: 1.2em">Walmart (2/15)</summary>
+<summary style="font-size: 1.2em">Walmart (3/15)</summary>
 
 Sr  | Problems                                                      | TryIt                                                                                                                           | Status
 ----|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|--------
@@ -130,7 +130,7 @@ Sr  | Problems                                                      | TryIt     
 3   | Remove Colored Pieces if Both Neighbors are the Same Color    | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/)   | 
 4   | [Number of Unique Paths](./walmart/number-of-unique-paths.md) | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/number-of-unique-paths5339/1/)                  | ✅
 5   | [Transform to Sum Tree](./walmart/transform-to-sum-tree.md)   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1/)                       | ✅
-6   | Power Of Numbers                                              | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1/)                 | 
+6   | [Power Of Numbers](./walmart/power-of-numbers.md)             | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1/)                 | ✅
 7   | Sorted subsequence of size 3                                  | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/sorted-subsequence-of-size-3/1/)                | 
 8   | Maximum Height Tree                                           | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/maximum-height-tree4803/1/)                     | 
 9   | Guess Number Higher or Lower II                               | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)                              | 

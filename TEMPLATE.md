@@ -1,7 +1,7 @@
 # Title
 
-[![Problem Link](../assets/gfg.svg)](...problem...)
-[![Problem Link](../assets/lc.svg)](...problem...)
+[![Problem Link](../assets/gfg.svg)](link)
+[![Problem Link](../assets/lc.svg)](link)
 
 
 ### Sample Input
@@ -19,4 +19,4 @@
 ```
 
 ### Accepted
-[![image](...image...)](...solution...)
+[![image](link)](link)
