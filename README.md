@@ -121,14 +121,14 @@ Sr  | Problems                                                                  
 
 
 <details open>
-<summary style="font-size: 1.2em">Walmart (0/15)</summary>
+<summary style="font-size: 1.2em">Walmart (1/15)</summary>
 
 Sr  | Problems                                                    | TryIt                                                                                                                           | Status
 ----|-------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|--------
 1   | Path with Maximum Probability                               | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/path-with-maximum-probability/)                                | 
 2   | Stone Game                                                  | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/stone-game/)                                                   | 
 3   | Remove Colored Pieces if Both Neighbors are the Same Color  | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/)   | 
-4   | Number of Unique Paths                                      | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/number-of-unique-paths5339/1/)                  | 
+4   | [Number of Unique Paths]()                                      | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/number-of-unique-paths5339/1/)                  | 
 5   | Transform to Sum Tree                                       | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1/)                       | 
 6   | Power Of Numbers                                            | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1/)                 | 
 7   | Sorted subsequence of size 3                                | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/sorted-subsequence-of-size-3/1/)                | 
