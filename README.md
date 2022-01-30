@@ -121,7 +121,7 @@ Sr  | Problems                                                                  
 
 
 <details open>
-<summary style="font-size: 1.2em">Walmart (13/15)</summary>
+<summary style="font-size: 1.2em">Walmart (14/15)</summary>
 
 Sr  | Problems                                                                                                                              | TryIt                                                                                                                           | Status
 ----|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|--------
@@ -135,7 +135,7 @@ Sr  | Problems                                                                  
 8   | [Maximum Height Tree](./walmart/maximum-height-tree.md)                                                                               | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/maximum-height-tree4803/1/)                     | ✅
 9   | [Guess Number Higher or Lower II](./walmart/guess-number-higher-or-lower-ii.md)                                                       | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)                              | ✅
 10  | [Generate Random Point in a Circle](./walmart/generate-random-point-in-a-circle.md)                                                   | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/generate-random-point-in-a-circle/)                            | ✅
-11  | Maximum Performance of a Team                                                                                                         | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/maximum-performance-of-a-team/)                                | 
+11  | [Maximum Performance of a Team](./walmart/maximum-performance-of-a-team.md)                                                           | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/maximum-performance-of-a-team/)                                | ✅
 12  | Find Array Given Subset Sums                                                                                                          | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/find-array-given-subset-sums/)                                 | 
 13  | [Find the Kth Largest Integer in the Array](./walmart/find-the-kth-largest-integer-in-the-array.md)                                   | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/)                    | ✅
 14  | [Largest number in K swaps](./walmart/largest-number-in-k-swaps.md)                                                                   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1/)        | ✅
