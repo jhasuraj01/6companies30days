@@ -121,12 +121,12 @@ Sr  | Problems                                                                  
 
 
 <details open>
-<summary style="font-size: 1.2em">Walmart (8/15)</summary>
+<summary style="font-size: 1.2em">Walmart (9/15)</summary>
 
 Sr  | Problems                                                                                              | TryIt                                                                                                                           | Status
 ----|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|--------
 1   | [Path with Maximum Probability](./walmart/path-with-maximum-probability.md)                           | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/path-with-maximum-probability/)                                | ✅
-2   | Stone Game                                                                                            | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/stone-game/)                                                   | 
+2   | [Stone Game](./walmart/stone-game.md)                                                                 | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/stone-game/)                                                   | ✅
 3   | Remove Colored Pieces if Both Neighbors are the Same Color                                            | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/)   | 
 4   | [Number of Unique Paths](./walmart/number-of-unique-paths.md)                                         | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/number-of-unique-paths5339/1/)                  | ✅
 5   | [Transform to Sum Tree](./walmart/transform-to-sum-tree.md)                                           | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1/)                       | ✅
