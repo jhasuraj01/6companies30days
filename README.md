@@ -121,7 +121,7 @@ Sr  | Problems                                                                  
 
 
 <details open>
-<summary style="font-size: 1.2em">Walmart (12/15)</summary>
+<summary style="font-size: 1.2em">Walmart (13/15)</summary>
 
 Sr  | Problems                                                                                                                              | TryIt                                                                                                                           | Status
 ----|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|--------
@@ -139,6 +139,6 @@ Sr  | Problems                                                                  
 12  | Find Array Given Subset Sums                                                                                                          | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/find-array-given-subset-sums/)                                 | 
 13  | [Find the Kth Largest Integer in the Array](./walmart/find-the-kth-largest-integer-in-the-array.md)                                   | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/)                    | ✅
 14  | [Largest number in K swaps](./walmart/largest-number-in-k-swaps.md)                                                                   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1/)        | ✅
-15  | Divide Two Integers                                                                                                                   | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/divide-two-integers/)                                          | 
+15  | [Divide Two Integers](./walmart/divide-two-integers.md)                                                                               | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/divide-two-integers/)                                          | ✅
 
 </details>
