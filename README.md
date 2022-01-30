@@ -121,7 +121,7 @@ Sr  | Problems                                                                  
 
 
 <details open>
-<summary style="font-size: 1.2em">Walmart (10/15)</summary>
+<summary style="font-size: 1.2em">Walmart (11/15)</summary>
 
 Sr  | Problems                                                                                                                              | TryIt                                                                                                                           | Status
 ----|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|--------
@@ -133,7 +133,7 @@ Sr  | Problems                                                                  
 6   | [Power Of Numbers](./walmart/power-of-numbers.md)                                                                                     | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1/)                 | ✅
 7   | [Sorted subsequence of size 3](./walmart/sorted-subsequence-of-size-3.md)                                                             | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/sorted-subsequence-of-size-3/1/)                | ✅
 8   | [Maximum Height Tree](./walmart/maximum-height-tree.md)                                                                               | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/maximum-height-tree4803/1/)                     | ✅
-9   | Guess Number Higher or Lower II                                                                                                       | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)                              | 
+9   | [Guess Number Higher or Lower II](./walmart/guess-number-higher-or-lower-ii.md)                                                       | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)                              | ✅
 10  | Generate Random Point in a Circle                                                                                                     | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/generate-random-point-in-a-circle/)                            | 
 11  | Maximum Performance of a Team                                                                                                         | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/maximum-performance-of-a-team/)                                | 
 12  | Find Array Given Subset Sums                                                                                                          | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/find-array-given-subset-sums/)                                 | 
